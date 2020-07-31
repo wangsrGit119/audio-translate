@@ -74,7 +74,7 @@
         formData.append("file", param);
         axios({
           method: 'post',
-          url: 'https://qdhuazhiyao.cn/audio2text/uploadFile', //地址填写自己本地启动的 suc-web-audio 项目
+          url: 'https://www.nnnnnnn.cn/uploadFile', //地址填写自己本地启动的 suc-web-audio 项目
           headers: {
             'Content-Type': 'multipart/form-data'
           },
